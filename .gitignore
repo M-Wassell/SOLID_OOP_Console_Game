@@ -1,1 +1,67 @@
+## Build directories
+
+bin/
+
+obj/
+
+ 
+
+## Visual Studio cache/options
+
 .vs/
+
+*.user
+
+*.suo
+
+ 
+
+## NuGet packages
+
+*.nupkg
+
+packages/
+
+*.snupkg
+
+ 
+
+## Logs + temp files
+
+*.log
+
+*.tmp
+
+*.temp
+
+ 
+
+## OS-specific
+
+.DS_Store
+
+Thumbs.db
+
+ 
+
+## Visual Studio Code
+
+.vscode/
+
+.history/
+
+ 
+
+## Resharper / Rider
+
+_ReSharper*/
+
+*.DotSettings.user
+
+.idea/
+
+ 
+
+## Publish artifacts
+
+publish/

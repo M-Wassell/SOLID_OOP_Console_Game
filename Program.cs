@@ -1,10 +1,16 @@
 ﻿namespace Clash_of_Classes
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Please chose between 1-6 for your Character");
+
+            //Check for int input
+            //Check Enum with isDefir
+            //Ensure order is correct - Character, Name, Weapon etc
+
+
         }
     }
 }
